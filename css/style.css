@@ -1,0 +1,184 @@
+    .maki {
+        position: absolute;
+        width: 180px;
+        left: 2%;
+    }
+    
+    .list {
+        position: absolute;
+        list-style: none;
+        display: flex;
+        left: 75%;
+    }
+    
+    .list li {
+        padding: 25px;
+        margin-top: 10%;
+        color: hsl(238, 22%, 44%);
+        font-family: 'Raleway', sans-serif;
+    }
+    
+    .list a {
+        text-decoration: none;
+    }
+    
+    .cabe h1 {
+        position: absolute;
+        font-family: 'Raleway', sans-serif;
+        font-size: 24pt;
+        top: 35%;
+        left: 5%;
+        color: hsl(224, 93%, 58%)
+    }
+    
+    .cabe h2 {
+        position: absolute;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 12pt;
+        left: 5%;
+        top: 49%;
+    }
+    
+    .nha {
+        position: absolute;
+        width: 500x;
+        height: 300px;
+        left: 55%;
+        top: 32%;
+    }
+    
+    .bnt {
+        position: absolute;
+        width: 500x;
+        height: 300px;
+        left: 10%;
+        top: 70%;
+    }
+    
+    .bnt button {
+        width: 70px;
+        height: 50px;
+        border-radius: 45pt;
+        background-color: white;
+        transition: 1s;
+        font-family: 'Raleway', sans-serif;
+        font-size: 14pt;
+        border-color: blueviolet;
+    }
+    
+    .bnt button:hover {
+        background-color: hsl(224, 93%, 58%)
+    }
+    
+    .bnt input {
+        width: 300px;
+        height: 30px;
+        border-radius: 10pt;
+        cursor: text;
+        border-color: blueviolet;
+    }
+    
+    .sub h1 {
+        position: absolute;
+        font-size: 15pt;
+        top: 90%;
+        color: black;
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    .sub a {
+        text-decoration: none;
+    }
+    
+    .sub h2 {
+        position: absolute;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15pt;
+        left: 5%;
+        top: 160%;
+        margin-left: 10px;
+    }
+    
+    .livros {
+        position: absolute;
+        width: 600px;
+        height: 300px;
+        top: 107%;
+        left: 30%;
+    }
+    
+    .karai h1 {
+        top: 190%;
+        left: 72%;
+        font-family: 'Raleway', sans-serif;
+        color: hsl(224, 93%, 58%);
+        font-size: 20pt;
+    }
+    
+    .mai {
+        position: absolute;
+        top: 190%;
+        left: 5%;
+        width: 600px;
+    }
+    
+    .karai h2 {
+        top: 200%;
+        left: 52%;
+        font-family: 'Raleway', sans-serif;
+        color: black;
+        font-size: 14pt;
+    }
+    
+    .karai h3 {
+        position: absolute;
+        top: 246%;
+        left: 52%;
+        font-family: 'Raleway', sans-serif;
+        color: black;
+        font-size: 14pt;
+    }
+    
+    .borda {
+        position: absolute;
+        top: 290%;
+        height: 300px;
+        width: 100%;
+        background-color: violet
+    }
+    
+    .borda img {
+        background-color: violet;
+    }
+    
+    .fone {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        top: 60%;
+        left: 5%;
+    }
+    
+    .gmail {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        top: 75%;
+        left: 5%;
+    }
+    
+    .nu {
+        position: absolute;
+        background-color: violet;
+        font-family: 'Raleway', sans-serif;
+        top: 60%;
+        left: 8%;
+    }
+    
+    .mts {
+        position: absolute;
+        background-color: violet;
+        font-family: 'Raleway', sans-serif;
+        top: 75%;
+        left: 8%;
+    }
